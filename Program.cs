@@ -23,7 +23,7 @@ namespace whileForeach
             // 'a' dan '' ye kadar tüm harrfleri console e yazdır
 
             char character = 'a';
-            while(character <'z');
+            while(character <'z')
             {
                 System.Console.WriteLine(character);
                 character ++;
